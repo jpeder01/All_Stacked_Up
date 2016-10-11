@@ -1,0 +1,200 @@
+      body {
+            padding-top: 70px;
+      }
+
+      .navbar-brand {
+          font-size: 1.8em;
+          padding: 0px 15px;
+      }
+      
+      .navbarOpacity {
+            opacity: .8;
+      }
+      
+      #topContainer {
+          background-image: url("../images/background.jpg");
+          height: 400px;
+          width: 100%;
+          margin-top: -20px;
+          background-size: cover;
+          background-position: center;
+      }
+      
+      #topRow {
+          margin-top: 0px;
+          text-align: center;
+      }
+      
+      #topRow h1 {
+          font-size: 300%;
+      }
+      
+      #email {
+          float: right;
+          padding-right: 5px;
+          margin-top: 9px;
+      }
+      
+      #textarea {
+            height: 120px;
+      }
+      
+      #submit {
+            margin-top: 20px;
+            margin-bottom: 10px;
+      }
+
+      #contactUsContainer {
+            left: 10%;
+            background: #ff3132;
+            color: #ffffff;
+            width: 80%;
+            padding: 10px 20px 30px 20px;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            border-radius: 25px;
+      }
+
+      #companyProfileContainer {
+          left: 10%;
+          background: #ff3132;
+          color: #ffffff;
+          width: 80%;
+          padding: 10px 20px 30px 20px;
+          margin-top: 30px;
+          margin-bottom: 30px;
+          border-radius: 25px;
+      }      
+
+      #partnersBackground {
+            background-position: center;
+            width: auto;
+            height: 100%;
+            margin-top: -20px;
+      }
+
+      #partnersContainer {
+          left: 10%;
+          background: #ff3132;
+          color: #ffffff;
+          width: 80%;
+          padding: 10px 20px 30px 20px;
+          margin-top: 30px;
+          margin-bottom: 30px;
+          border-radius: 25px;
+      }      
+      
+      .infoContainer {
+          background: #ff3132;
+          color: #ffffff;
+          width: 80%;
+          padding: 10px 20px 30px 20px;
+          margin-top: 30px;
+          margin-bottom: 30px;
+          border-radius: 25px;
+      }
+      
+      .crew {
+            background-image: url("../images/crew.jpg");
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            color: white;
+      } 
+      
+      .column {
+            padding: 0px 30px 10px 30px;
+      }
+
+      .floatLeft {
+            float: left;
+            width: 50%;
+            padding: 10px;
+      }
+      
+      .floatRight {
+            float: right;
+            width: 50%;
+            padding: 10px 10px 10px 20px;            
+      }
+      
+      .partnerimg {
+            margin-left: 20px;
+            margin-right: 20px;
+      }
+      
+      .center-block {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+      }
+      
+      .imgLeft {
+            float: left;
+            margin: 5px 10px 5px 0px;
+      }
+      
+      .bold {
+          font-weight: bold;
+      }
+      
+      .marginTop {
+          margin-top: 30px;
+      }
+      
+      .paddingTop {
+            padding-top: 30px;
+      }
+      
+      .marginBottom {
+          margin-bottom: 30px;
+      }
+
+      .paddingBottom {
+          padding-bottom: 30px;
+      }
+      
+      .center {
+          text-align: center;
+          font-weight: bold;
+      }
+      
+      .centerParagraph {
+          text-align: center;
+          padding: 10px 10px 20px 10px;
+      }
+      
+      .title {
+          margin-top: 40px;
+          font-size: 300%;
+      }
+      
+      .footer {
+          background-color: #ff3132;
+          height: 100%;
+          width: 100%;
+          padding-bottom: 7px;
+          padding-left: 20px;
+          padding-right: 20px;
+          margin-bottom: 50px;
+          color: #ffffff;
+      }
+                  
+      .hide-bullets {
+            list-style:none;
+            margin-left: -40px;
+            margin-top: 30px;
+      }
+
+      .thumbnail {
+            padding: 0px;
+      }
+
+      .carousel-inner>.item>img, .carousel-inner>.item>a>img {
+            height: auto;
+            width: auto;
+      }
+      
+      .paddingCarousel {
+            padding-top: 15px;
+      }
